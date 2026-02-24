@@ -1,0 +1,10 @@
+create database olp_db;
+show databases;
+use olp_db;
+show tables;
+select * from users;
+select * from courses;
+select * from enrollments;
+select * from lessons;
+select * from reviews;
+select * from payments;
